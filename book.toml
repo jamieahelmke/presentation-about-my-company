@@ -1,0 +1,7 @@
+[book]
+title = "a presentation about my company"
+authors = ["Jamie Alexander Helmke"]
+language = "de"
+multilingual = false
+src = "src"
+
