@@ -1,22 +1,22 @@
-# Presentation about my company
+# presentation about my company
 
 Contents:
 
-1. Index
+1. index
 
-2. Introduction
+2. introduction
 
-3. About Me
+3. about Me
 
-4. About optimal media
+4. about optimal media
    
-   4.1 General Information
+   4.1 general Information
    
-   4.2 Our security arrangements
+   4.2 our security arrangements
    
-   4.3 Our IT-Infrastructure
+   4.3 our IT-Infrastructure
 
-5. About my tasks
+5. about my tasks
 
-6. Outro
+6. outro
 

@@ -1,7 +1,10 @@
-## 5. Outro
+## 5. outro
 
-I often have much to do, just like you. I dont have that one exercise that i do, i am a little flexible. And also, most of the "Systemintegrator"-Apprentices are not writing software. Call to you: At least learn free software!
+<video>
+    <source src="https://www.optimal-media.com/wp-content/uploads/OM_Startseite_3DUnternehmen.jpg">
+</video>
 
+I often have much to do, just like you. I dont have that one exercise that i do, i am a little flexible. And also, most of the "Systemintegrator"-Apprentices are not writing software. Call to you: Many open source applications are an industry standard. Learn to use it!
 
 
 Questions?

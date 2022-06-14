@@ -1,6 +1,6 @@
-## 2. About Me
+## 2. about me
 
-- Jamie Alexander 
+- Jamie Alexander Helmke 
 
 - IT Specialist for System Integration
 

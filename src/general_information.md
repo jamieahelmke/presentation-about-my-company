@@ -1,4 +1,4 @@
-## 3.1 General Information
+## 3.1 general Information
 
 #### Our slogan: Print. Press. Performance.
 

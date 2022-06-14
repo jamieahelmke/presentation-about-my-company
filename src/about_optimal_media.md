@@ -1,3 +1,16 @@
-## 3. About optimal media
+## 3. about optimal media
 
-The 'optimal media GmbH', with its head office in Röbel/Müritz, is a subsidiary of the 'EDEL SE & Co. KGaA'. 
+<img src="https://www.optimal-media.com/wp-content/themes/optimalmedia/assets/images/optimalmedia-logo.svg">
+
+- optimal media gmbh
+
+- head office in Röbel/Müritz, Germany
+
+- subsidiary of EDEL SE&Co. KGaA
+
+- founded in 1991 (12 employees)
+
+- today over 800 employees
+
+- over 500 PCs
+
